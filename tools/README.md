@@ -6,7 +6,8 @@
 
 | 工具 | 说明 |
 | --- | --- |
-| [MIL-mm 单位转换器](mil-mm-converter/) | 初版，提供 MIL 与 mm 双向换算 |
+| [PCB 小工具](pcb-toolbox/) | 当前整合版：MIL/mm 换算与走线载流计算，附源码和使用说明 |
+| [MIL-mm 单位转换器](mil-mm-converter/) | 保留初版：MIL 与 mm 双向换算 |
 
 ## 添加工具
 

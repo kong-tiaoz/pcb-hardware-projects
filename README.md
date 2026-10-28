@@ -18,8 +18,12 @@
 
 | 工具 | 功能 | 阶段 |
 | --- | --- | --- |
-| [MIL-mm 单位转换器](tools/mil-mm-converter/) | MIL 与 mm 双向换算 | 初版 |
+| [PCB 小工具](tools/pcb-toolbox/) | MIL/mm 换算、按电流计算线宽、按线宽估算载流 | 当前整合版 |
+| [MIL-mm 单位转换器](tools/mil-mm-converter/) | MIL 与 mm 双向换算 | 保留初版 |
 
 ## 开发历程
 
 1. 先制作 MIL-mm 单位转换器，完成常用长度单位换算。
+2. 随后制作走线载流计算功能，并与 MIL-mm 转换器整合为 PCB 小工具，保留原有换算功能。
+
+详细更新说明见 [PCB 小工具更新记录](tools/pcb-toolbox/CHANGELOG.md)。
